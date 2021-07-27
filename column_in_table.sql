@@ -10,7 +10,7 @@ alter table wp_terms add 'what_ever_column_name' datatype ();     // where wp_te
                                                                   
                                                                                                                                     
                                                                   
-When you are trying to remove new column in your existing database table : 
+When you are trying to remove column from your existing table : 
 
 # try this code
 
